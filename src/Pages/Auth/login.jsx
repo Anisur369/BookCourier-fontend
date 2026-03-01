@@ -86,7 +86,7 @@ const Login = () => {
         </h1>
 
         {/* Demo Login Buttons */}
-        <div className="flex gap-4 mb-4 justify-center">
+        {/* <div className="flex gap-4 mb-4 justify-center">
           <button
             onClick={() => handleDemoLogin("user")}
             className="flex items-center gap-2 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition"
@@ -99,7 +99,7 @@ const Login = () => {
           >
             <FaUserShield /> Demo Admin
           </button>
-        </div>
+        </div> */}
 
         <form
           onSubmit={handleLogin}
