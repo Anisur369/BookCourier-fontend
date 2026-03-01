@@ -6,42 +6,42 @@
 
 ## 📷 Screenshot
 
-![HomePage Preview](https://i.postimg.cc/PrVtTW0z/Book-Courier.png)
+![HomePage Preview](https://i.postimg.cc/SsqSJh87/screencapture-magical-jalebi-c30c1f-netlify-app-2026-03-01-10-03-25.png)
 
 ---
 
 ## 🔗 Live Demo
 
-🚀 [Click Here to Explore BookCourier](https://bookcourier-ba441.web.app/)
+🚀 [Click Here to Explore BookCourier](https://magical-jalebi-c30c1f.netlify.app)
 
 ---
+
 ## 📲 App Features
 
-* **📚 Browse Books:** Explore a variety of books available in nearby libraries.  
-* **🏠 Request Home Delivery:** Get books delivered directly to your doorstep.  
-* **🔄 Schedule Pickups & Returns:** Arrange convenient times to borrow or return books.  
-* **👩‍🎓 User Profiles:** View profiles of users and libraries for a trusted experience.  
-* **📖 Track Borrowing Status:** Keep track of your requests, due dates, and returns.  
-* **🌐 Access Anywhere:** Borrow books without physically visiting the library.  
-
+- **📚 Browse Books:** Explore a variety of books available in nearby libraries.
+- **🏠 Request Home Delivery:** Get books delivered directly to your doorstep.
+- **🔄 Schedule Pickups & Returns:** Arrange convenient times to borrow or return books.
+- **👩‍🎓 User Profiles:** View profiles of users and libraries for a trusted experience.
+- **📖 Track Borrowing Status:** Keep track of your requests, due dates, and returns.
+- **🌐 Access Anywhere:** Borrow books without physically visiting the library.
 
 ---
+
 ## 🛠️ Tech Stack
 
-* **💻 Frontend:** React.js, React Router, Axios, Tailwind CSS  
-* **🎨 Styling & Components:** Tailwind CSS, DaisyUI  
-* **⚙️ Backend:** Node.js, Express.js  
-* **🗄️ Database:** MongoDB, Mongoose  
-* **🔒 Authentication:** JWT (JSON Web Tokens), bcrypt  
-* **🚀 Deployment:** Vercel / Netlify (frontend), Render / Heroku (backend)  
-* **🛠️ Other Tools:** Postman (API testing), Git & GitHub (version control)  
-* **✨ Animations:** AOS (Animate on Scroll)  
-* **🔔 Notifications:** react-hot-toast, SweetAlert2  
-* **🎠 Carousels & Sliders:** Swiper.js  
-* **🖼️ Images:** Sourced from [Pexels](https://www.pexels.com/) and hosted on [imgbb](https://imgbb.com/)  
-* **📌 State Management:** React Hooks (useState, useEffect, etc.)  
-* **🎨 Icons:** React Icons  
-
+- **💻 Frontend:** React.js, React Router, Axios, Tailwind CSS
+- **🎨 Styling & Components:** Tailwind CSS, DaisyUI
+- **⚙️ Backend:** Node.js, Express.js
+- **🗄️ Database:** MongoDB, Mongoose
+- **🔒 Authentication:** JWT (JSON Web Tokens), bcrypt
+- **🚀 Deployment:** Vercel / Netlify (frontend), Render / Heroku (backend)
+- **🛠️ Other Tools:** Postman (API testing), Git & GitHub (version control)
+- **✨ Animations:** AOS (Animate on Scroll)
+- **🔔 Notifications:** react-hot-toast, SweetAlert2
+- **🎠 Carousels & Sliders:** Swiper.js
+- **🖼️ Images:** Sourced from [Pexels](https://www.pexels.com/) and hosted on [imgbb](https://imgbb.com/)
+- **📌 State Management:** React Hooks (useState, useEffect, etc.)
+- **🎨 Icons:** React Icons
 
 ---
 
@@ -71,15 +71,13 @@
 
 ## ⚙️ How It Works
 
-1. **📝 Sign Up / Login:** Users create an account or log in to access the platform.  
-2. **📖 Browse Books:** Users can explore available books from nearby libraries.  
-3. **🏠 Request Home Delivery:** Users can request books to be delivered directly to their home.  
-4. **🔄 Schedule Pickups & Returns:** Users can arrange convenient times to borrow or return books.  
-5. **✅ Approve / Reject Requests:** Libraries or admins review book requests and approve or reject them.  
-6. **📊 Track Borrowing Status:** Users can see the status of their requests—approved, rejected, or pending.  
-7. **🤝 Connect & Borrow:** Once approved, users receive the books and return them on schedule, making library access convenient.  
-
-
+1. **📝 Sign Up / Login:** Users create an account or log in to access the platform.
+2. **📖 Browse Books:** Users can explore available books from nearby libraries.
+3. **🏠 Request Home Delivery:** Users can request books to be delivered directly to their home.
+4. **🔄 Schedule Pickups & Returns:** Users can arrange convenient times to borrow or return books.
+5. **✅ Approve / Reject Requests:** Libraries or admins review book requests and approve or reject them.
+6. **📊 Track Borrowing Status:** Users can see the status of their requests—approved, rejected, or pending.
+7. **🤝 Connect & Borrow:** Once approved, users receive the books and return them on schedule, making library access convenient.
 
 ---
 
@@ -87,9 +85,10 @@
 
 Follow these steps to run the BookCourier project locally:
 
-1. **Clone the repository:**  
+1. **Clone the repository:**
+
 ```bash
-git clone https://github.com/Mahbub-Zaman/BookCourier-Client.git
+git clone https://github.com/Anisur369/BookCourier-fontend
 ```
 
 2. **Navigate to the project folder**
@@ -103,9 +102,10 @@ cd BookCourier-Client
 ```bash
 npm install
 ```
+
 4. **Set up environment variables:**
-    * Create a `.env` file in the root directory.
-    * Add the required variables `(e.g., API URLs, JWT secret, etc.)`.
+   - Create a `.env` file in the root directory.
+   - Add the required variables `(e.g., API URLs, JWT secret, etc.)`.
 
 5. **Start the development server**
 
@@ -121,15 +121,14 @@ Navigate to http://localhost:5173 (or the port specified in your setup) to acces
 
 ## 📌 Future Improvements
 
-* 👁️ Admin will be able to **view each user's profile** for management purposes  
-* 🤖 Add **AI Chatbot** to assist users in finding books and answering queries  
-* 🌙 Improve **Dark Mode UI** for a better user experience  
-* 🏛️ Enable **Librarian Registration Process** to manage library access  
-* 📦 Track **Book Quantity** for inventory management  
-* 🔍 Add **Filtering Options** by price, category, tags, or author  
-* 📝 Allow **Review Deletion or Hiding by Admin** for moderation  
-* 🎨 More **UI Upgrades** for a modern and intuitive interface  
-* 🗺️ Integrate **Google Maps** to show nearby libraries and delivery routes  
+- 👁️ Admin will be able to **view each user's profile** for management purposes
+- 🤖 Add **AI Chatbot** to assist users in finding books and answering queries
+- 🌙 Improve **Dark Mode UI** for a better user experience
+- 🏛️ Enable **Librarian Registration Process** to manage library access
+- 📦 Track **Book Quantity** for inventory management
+- 🔍 Add **Filtering Options** by price, category, tags, or author
+- 📝 Allow **Review Deletion or Hiding by Admin** for moderation
+- 🎨 More **UI Upgrades** for a modern and intuitive interface
+- 🗺️ Integrate **Google Maps** to show nearby libraries and delivery routes
 
-
-"# BookCourier-fontend" 
+"# BookCourier-fontend"
