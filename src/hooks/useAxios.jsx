@@ -2,7 +2,7 @@ import axios from "axios";
 // "https://book-courier-server-five.vercel.app",
 
 const axiosInstance = axios.create({
-  baseURL: "http://localhost:3000",
+  baseURL: "https://bookcourier-tau.vercel.app",
 });
 
 const useAxios = () => {
